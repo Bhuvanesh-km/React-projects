@@ -1,0 +1,22 @@
+
+
+input {
+  width: 100%;
+}
+
+.items-container {
+  text-align: left;
+}
+
+
+
+.km-row{
+  margin: 10px 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.km-button {
+  min-width: 80px;
+}
